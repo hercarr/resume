@@ -544,7 +544,7 @@ header {
     border-left-color: #e5e4e4;
 }
 .footer {
-    background: #00bdbd;
+    background: #03A9F4;
 }
 .footer .container {
     padding: 40px 0;
@@ -558,7 +558,7 @@ header {
     display: inline-block;
     text-align: center;
     background: #ffffff;
-    color: #00bdbd;
+    color: #03A9F4;
     line-height: 42px;
     margin: 0 6px;
     width: 42px !important;
